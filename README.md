@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?Erista01=Erista01" />
+  <img src="https://komarev.com/ghpvc/?username=Erista01" />
 </div>
 
 
@@ -19,20 +19,20 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## Languages
+## 📝 Languages
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=arduino,c,cpp,blender,raspberrypi," />
 <br>
 
-## Languages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,blender,visualstudio,vscode" />
+## Tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=blender,visualstudio,vscode" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+## 📈 Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?Erista01=Erista01&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?Erista01=Erista01&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Erista01&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erista01&theme=vue-dark&layout=compact" />
 </div>
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
