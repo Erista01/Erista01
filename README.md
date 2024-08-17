@@ -5,12 +5,14 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="[![Party Parrot](https://tenor.com/ja/view/party-parrot-party-parrot-gif-15648455)](https://tenor.com/ja/view/party-parrot-party-parrot-gif-15648455)
-" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a student.
-- 🌱 Self-taught and under development!
-- 📫 How to reach me: [X(Twitter) - @Eristai2c](https://x.com/Eristai2c)
+
+- ✍🏻 I'm a student.
+- 🪛 I'm making PCBs.
+- 🛠 I make Iot devices.
+- 🧑🏻‍🌾 Self-taught and under development!
+- 📲 How to reach me: [X(Twitter) - @Eristai2c](https://x.com/Eristai2c)
 <br>
 
 
