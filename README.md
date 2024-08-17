@@ -24,7 +24,7 @@
 <br>
 
 ## Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=blender,visualstudio,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=blender,github,visualstudio,vscode" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
